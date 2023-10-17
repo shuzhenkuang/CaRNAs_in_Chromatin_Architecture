@@ -1,7 +1,7 @@
 # Exploring the Roles of RNAs in Chromatin Architecture Using Deep Learning
 We investigate the roles of chromatin-associated RNAs (caRNAs) on genome folding in HFFc6 cells by bioinformatics analyses and proposing a deep learning framework that leverages both genome sequences and genome-wide RNA-DNA interactions. 
 
-![plot](Images/Figure5B.png)
+![plot](Image/Figure5B.png)
 
 ## Roadmap
 - [Source code](/Code) Custom code for data exploration, contribution score computation and downstream analyses.
