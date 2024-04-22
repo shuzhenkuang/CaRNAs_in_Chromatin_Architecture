@@ -1,0 +1,2 @@
+index	identifier	file	description	norm
+0	HFF	Data/Genomic_bin_data/HFFc6_RNA_class_count_long_cis_trans_2048	TransRNA	1

@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import json
 import h5py
-from basenji import seqnn_rna
+from AkitaR import seqnn_rna
 import shap
 import argparse
 import tensorflow as tf
