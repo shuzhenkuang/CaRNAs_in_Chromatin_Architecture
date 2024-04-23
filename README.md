@@ -47,7 +47,7 @@ python get_feature_contribution_scores_with_DeepExplainer.py -d inputs_dir -p Da
 - [Figures](/Code/CaRNAs_in_Chromatin_Architecture_Figures.ipynb) Jupyter notebook for generating the figures.
 
 ## Data
-- [Data](/Data) Some of the data to demonstrate the use of the AkitaR code and data for generating the figures. More data could be found at: [https://zenodo.org/records/10015010].
+- [Data](/Data) Some of the data to demonstrate the use of the AkitaR code and data for generating the figures. More data could be found at: [https://zenodo.org/records/10015009].
 
 ## Contact
 If you have any questions, please feel free to contact shuzhen.kuang@gladstone.ucsf.edu or szkuang@gmail.com.
